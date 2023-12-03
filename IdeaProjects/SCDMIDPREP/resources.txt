@@ -1,0 +1,6 @@
+Ali Amjad | c++:3, java:3
+Sara Najeeb | python:3, javascript:2
+Ayesha Haroon | c++:2, c:2, assembly:2
+sania | c++:4, python:2, alpha pte:4
+Salman Ahmad | python:2, java:4, javascript:2
+Ahmed Hassan | c++:3, c:2, java:1
